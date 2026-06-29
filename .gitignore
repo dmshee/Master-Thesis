@@ -1,0 +1,15 @@
+Raw data processing/Y24S4 Lynx/
+Raw data processing/Y24S4_crops_reflectance_mat/
+# Local hyperspectral data and large generated MATLAB outputs
+Analysis/MIX_classification_inputs.mat
+Analysis/MIX_VNIR_sampleMean.mat
+Analysis/MIX_SWIR_sampleMean.mat
+Analysis/MSC_classification.mat
+Analysis/SNV_classification.mat
+Analysis/Raw_classification.mat
+
+Raw data processing/*.img
+Raw data processing/*_reflectance.mat
+
+Anon_thesis/analysis_outputs/anon_thesis_workflow_results.mat
+Anon_thesis/nb_s6_vnir_2.mat
